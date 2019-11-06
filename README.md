@@ -1,4 +1,4 @@
-# huffman-coding
+# Huffman Coding
 
 ## Introduction
  
