@@ -1,5 +1,10 @@
 # Huffman Coding
 
+[![](https://img.shields.io/github/license/brensio/huffman-coding?style=for-the-badge)](https://github.com/brensio/huffman-coding/blob/master/LICENSE)
+[![](https://img.shields.io/github/issues/brensio/huffman-coding?style=for-the-badge)](https://github.com/brensio/huffman-coding/issues)
+[![](https://img.shields.io/github/forks/brensio/huffman-coding?style=for-the-badge)](https://github.com/brensio/huffman-coding/network/members)
+[![](https://img.shields.io/github/stars/brensio/huffman-coding?style=for-the-badge)](https://github.com/brensio/huffman-coding/stargazers)
+
 ## Introduction
  
 The Huffman coding is a lossless compression method that uses the probabilities of symbols occurring in the data set to determine variable-length codes for each symbol. 
